@@ -7,7 +7,11 @@ public class HelloWorld {
 
         System.out.println("Hallo Welt");
 
+        System.out.println("Namaste Duniya");
+
         System.out.println("Merhaba Dünya");
+
+
 
     }
 }
