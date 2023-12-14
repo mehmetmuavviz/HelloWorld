@@ -11,3 +11,11 @@ public class HelloWorld {
 
     }
 }
+/*
+git init
+git add .
+git commit -m "MyWorkSpace-v1.0"
+git branch -M main
+git remote add origin https://github.com/mehmetmuavviz/MyWorkSpace.git
+git push -u origin main
+ */
